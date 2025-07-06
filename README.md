@@ -1,5 +1,5 @@
 # SoapToRestConverter
-
+This tools helps to convert soap project to rest project
 
 Here’s how to use the soap_to_rest_converter.py tool:
 
